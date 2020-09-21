@@ -10,9 +10,9 @@
 
 .friend-link .friend-link-content {
     width: 1360px; 
-    margin: 0 auto; 
-    padding: 10px 0; 
-    margin-bottom: 10px;
+    margin: 0 auto !important;
+    padding: 10px 0 !important;
+    margin-bottom: 10px !important;
     display: flex; 
     justify-content: center; 
     border: 1px dashed #ccc; 
