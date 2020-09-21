@@ -25,3 +25,15 @@
 .friend-link-content .link-item  a {
     text-decoration: none
 }
+<div class="friend-link">
+  <ul class="friend-link-content">
+  <li class="link-item"><a href="https://www.shixingceping.com" target="_blank" title="十星测评">十星测评</a></li>	
+		<li class="link-item"><a href="https://www.zrj96.com" target="_blank" title="初行博客">初行博客</a></li>	
+		<li class="link-item"><a href="https://jhrs.com" target="_blank" title="江湖人士">江湖人士</a></li>	
+		<li class="link-item"><a href="https://www.gubo.org/" target="_blank" title="古博">古博</a></li>	
+		<li class="link-item"><a href="https://zhujiwiki.com/" target="_blank" title="主机百科">主机百科</a></li>	
+		<li class="link-item"><a href="https://oldpan.me/" target="_blank" title="oldpan博客">oldpan博客</a></li>
+		<li class="link-item"><a href="https://www.7b3.org/" target="_blank" title="柒比叁">柒比叁</a></li>	
+		<li class="link-item"><a href="https://mengsugar.com/" target="_blank" title="萌糖">萌糖</a></li>
+  </ul>	
+</div>
