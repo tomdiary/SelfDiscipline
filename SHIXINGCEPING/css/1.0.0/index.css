@@ -1,0 +1,27 @@
+/*
+  @version 1.0.0
+  @time    2020.09.21
+*/
+
+/* 友情链接 */
+.friend-link {
+    width: 100%;
+}
+
+.friend-link .friend-link-content {
+    width: 1360px; 
+    margin: 0 auto; 
+    padding: 10px 0; 
+    margin-bottom: 10px;
+    display: flex; 
+    justify-content: center; 
+    border: 1px dashed #ccc; 
+}
+
+.friend-link .friend-link-content .link-item {
+    list-style: none;
+}
+
+.friend-link-content .link-item  a {
+    text-decoration: none
+}
